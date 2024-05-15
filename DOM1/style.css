@@ -1,0 +1,19 @@
+/* #heading{
+    color: blue;
+    background-color: yellow;
+    text-shadow: 0cqmax;
+} */
+
+.myClass{
+    color: blue;
+    background-color: yellow;
+    text-shadow: 0cqmax;
+}
+
+body{
+    background-color: pink;
+}
+#myId{
+    background-color: blue;
+    color: white;
+}
